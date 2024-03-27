@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/JesusIslam/n2yo-go"
+	"github.com/didasy/n2yo-go"
 )
 
 func main() {

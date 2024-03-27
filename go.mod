@@ -1,4 +1,4 @@
-module github.com/JesusIslam/n2yo-go
+module github.com/didasy/n2yo-go
 
 go 1.14
 

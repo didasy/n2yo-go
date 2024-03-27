@@ -1,8 +1,8 @@
 # n2yo-go
 [![Build Status](https://travis-ci.org/JesusIslam/n2yo-go.svg?branch=master)](https://travis-ci.org/JesusIslam/n2yo-go)
 [![codecov](https://codecov.io/gh/JesusIslam/n2yo-go/branch/master/graph/badge.svg)](https://codecov.io/gh/JesusIslam/n2yo-go)
-[![GoDoc](https://godoc.org/github.com/JesusIslam/n2yo-go?status.svg)](https://godoc.org/github.com/JesusIslam/n2yo-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/JesusIslam/n2yo-go)](https://goreportcard.com/report/github.com/JesusIslam/n2yo-go)
+[![GoDoc](https://godoc.org/github.com/didasy/n2yo-go?status.svg)](https://godoc.org/github.com/didasy/n2yo-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/didasy/n2yo-go)](https://goreportcard.com/report/github.com/didasy/n2yo-go)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJesusIslam%2Fn2yo-go.svg?type=small)](https://app.fossa.io/projects/git%2Bgithub.com%2FJesusIslam%2Fn2yo-go?ref=badge_small)
 
 Unofficial [n2yo](https://n2yo.com) Golang client.
@@ -10,11 +10,11 @@ Unofficial [n2yo](https://n2yo.com) Golang client.
 # Usage
 Download and install it:
 
-`go get github.com/JesusIslam/n2yo-go`
+`go get github.com/didasy/n2yo-go`
 
 Import it in your code:
 
-`import "github.com/JesusIslam/n2yo-go`
+`import "github.com/didasy/n2yo-go`
 
 Simplest default example:
 
@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/JesusIslam/n2yo-go"
+	"github.com/didasy/n2yo-go"
 )
 
 func main() {
